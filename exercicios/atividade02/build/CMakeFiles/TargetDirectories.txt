@@ -1,0 +1,3 @@
+C:/Users/Dell/Documents/programasorientada/atividade02/build/CMakeFiles/atividade02.dir
+C:/Users/Dell/Documents/programasorientada/atividade02/build/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Documents/programasorientada/atividade02/build/CMakeFiles/rebuild_cache.dir
