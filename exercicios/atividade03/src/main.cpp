@@ -21,9 +21,7 @@ private:
 
 public:
 	Relogio(unsigned int hora, unsigned int minuto, unsigned int segundo){
-		this->hora = hora;
-		this->minuto = minuto;
-		this->segundo = segundo;
+		setHorario(hora, minuto, segundo);
 	}
 
 	void setHorario(unsigned int newHora, unsigned int newMinuto, unsigned int newSegundo){
@@ -32,8 +30,10 @@ public:
 		segundo = newSegundo;
 	}
 
-	void getHorario(){
-
+	void getHorario(unsigned int &hora, unsigned int &minuto, unsigned int &segundo){	// Passagem por referência
+		hora = this->hora;
+		minuto = this->minuto;
+		segundo = this->segundo;
 	}
 
 	void tick(){
@@ -51,13 +51,28 @@ public:
 		}
 	}
 
-
 };
 
 int main() {
 
 
 	cout << "Hello, world!!!" << endl;
+
+	Relogio clock(15,59,59);
+
+	unsigned int hora = 0;
+	unsigned int minuto = 0;
+	unsigned int segundo = 0;
+
+	clock.getHorario(hora,minuto,segundo);
+
+
+	cout << hora << ":" << minuto << ":" << segundo << endl;
+
+	clock.tick();
+	clock.getHorario(hora,minuto,segundo);
+
+	cout << hora << ":" << minuto << ":" << segundo << endl;
 
 	return 0;
 }
