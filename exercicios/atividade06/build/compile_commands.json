@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Dell/Documents/programasorientada/atividade06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\atividade06.dir\\src\\main.cpp.obj -c C:\\Users\\Dell\\Documents\\programasorientada\\atividade06\\src\\main.cpp",
+  "file": "C:/Users/Dell/Documents/programasorientada/atividade06/src/main.cpp",
+  "output": "CMakeFiles/atividade06.dir/src/main.cpp.obj"
+}
+]
