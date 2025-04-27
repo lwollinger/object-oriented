@@ -1,5 +1,5 @@
 CMakeFiles/atividade05.dir/src/main.cpp.obj: \
- C:\Users\Dell\Documents\programasorientada\atividade05\src\main.cpp \
+ C:/Users/lucas/OneDrive/Documentos/orientadaobjetos/exercicios/atividade05/src/main.cpp \
  C:/msys64/ucrt64/include/c++/14.2.0/iostream \
  C:/msys64/ucrt64/include/c++/14.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -62,6 +62,7 @@ CMakeFiles/atividade05.dir/src/main.cpp.obj: \
  C:/msys64/ucrt64/include/_timeval.h \
  C:/msys64/ucrt64/include/pthread_time.h \
  C:/msys64/ucrt64/include/pthread_compat.h \
+ C:/msys64/ucrt64/include/sched.h \
  C:/msys64/ucrt64/include/pthread_unistd.h \
  C:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
  C:/msys64/ucrt64/include/c++/14.2.0/bits/locale_classes.h \

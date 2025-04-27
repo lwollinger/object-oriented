@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "atividade05",
+					"name" : "atividade06",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "atividade05::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-atividade05-Debug-e73813e50cb0329fa768.json",
-					"name" : "atividade05",
+					"id" : "atividade06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-atividade06-Debug-9f676e2062c88429d66d.json",
+					"name" : "atividade06",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Dell/Documents/programasorientada/atividade05/build",
-		"source" : "C:/Users/Dell/Documents/programasorientada/atividade05"
+		"build" : "C:/Users/lucas/OneDrive/Documentos/orientadaobjetos/exercicios/atividade06/build",
+		"source" : "C:/Users/lucas/OneDrive/Documentos/orientadaobjetos/exercicios/atividade06"
 	},
 	"version" : 
 	{

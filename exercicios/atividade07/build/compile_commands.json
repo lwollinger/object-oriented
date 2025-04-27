@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/lucas/OneDrive/Documentos/orientadaobjetos/exercicios/atividade07/build",
+  "command": "C:/msys64/ucrt64/bin/g++.exe   -g -o CMakeFiles/atividade07.dir/src/main.cpp.obj -c C:/Users/lucas/OneDrive/Documentos/orientadaobjetos/exercicios/atividade07/src/main.cpp",
+  "file": "C:/Users/lucas/OneDrive/Documentos/orientadaobjetos/exercicios/atividade07/src/main.cpp",
+  "output": "CMakeFiles/atividade07.dir/src/main.cpp.obj"
+}
+]
